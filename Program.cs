@@ -14,7 +14,7 @@ namespace NumberStats
             {
                 List<int> numbers = new List<int>();
                 string input;
-                Console.Write("One integer only! To finish press enter without writing anything. You might need to press enter twice: ");
+                Console.Write("One integer only! To finish press enter without writing anything. You might need to press enter twice ");
 
                 do
                 {
