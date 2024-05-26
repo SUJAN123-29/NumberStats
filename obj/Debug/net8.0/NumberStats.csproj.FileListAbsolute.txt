@@ -1,0 +1,14 @@
+C:\Users\sujan\NumberStats\bin\Debug\net8.0\NumberStats.exe
+C:\Users\sujan\NumberStats\bin\Debug\net8.0\NumberStats.deps.json
+C:\Users\sujan\NumberStats\bin\Debug\net8.0\NumberStats.runtimeconfig.json
+C:\Users\sujan\NumberStats\bin\Debug\net8.0\NumberStats.dll
+C:\Users\sujan\NumberStats\bin\Debug\net8.0\NumberStats.pdb
+C:\Users\sujan\NumberStats\obj\Debug\net8.0\NumberStats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sujan\NumberStats\obj\Debug\net8.0\NumberStats.AssemblyInfoInputs.cache
+C:\Users\sujan\NumberStats\obj\Debug\net8.0\NumberStats.AssemblyInfo.cs
+C:\Users\sujan\NumberStats\obj\Debug\net8.0\NumberStats.csproj.CoreCompileInputs.cache
+C:\Users\sujan\NumberStats\obj\Debug\net8.0\NumberStats.dll
+C:\Users\sujan\NumberStats\obj\Debug\net8.0\refint\NumberStats.dll
+C:\Users\sujan\NumberStats\obj\Debug\net8.0\NumberStats.pdb
+C:\Users\sujan\NumberStats\obj\Debug\net8.0\NumberStats.genruntimeconfig.cache
+C:\Users\sujan\NumberStats\obj\Debug\net8.0\ref\NumberStats.dll
